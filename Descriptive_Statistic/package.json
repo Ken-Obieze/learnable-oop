@@ -1,0 +1,15 @@
+{
+  "name": "descriptive_statistic",
+  "version": "1.0.0",
+  "description": "## Authour Ejiofor Obieze (B)",
+  "main": "descriptive_statistics.js",
+  "dependencies": {
+    "prompt-sync": "^4.2.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
