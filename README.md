@@ -1,7 +1,8 @@
-# learnable-oop
+# learnable Object Oriented Programming
 
 ### Author
 Ejiofor Obieze (B)
+
 This repository contains three projects, each residing in its own directory. Explore each project's README file for detailed information:
 
 ## 1. Descriptive Statistics Calculator (Ejis Descriptive Statistics Calculator)
